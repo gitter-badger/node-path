@@ -1,7 +1,7 @@
 <!--
 name: node-assessment
 version : 0.0.1
-title : "Node.js Assessment"
+title : "Node.js Knowledge Assessment"
 description: "A brief assessment of Node.js knowledge. "
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
@@ -9,9 +9,9 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-19
 -->
 
-<!-- @section, "title" : "Node.js Knowledge Assessment"-->
+<!-- @section, "title" : "Test Your Node.js Fu"-->
 
-<img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:200px;height:200px;">
+<img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
 
 Ready to test your Node.js Fu? See if how you do on the following questions!
 
@@ -103,14 +103,25 @@ The emit property is used to fire an event.
 
 Which of the following module is required for network specific operations?
 
-- [X] net module
-
+- [ ] comm module
 - [ ] os module
-
 - [ ] fs module
-
+- [X] net module
 - [ ] None of the above.
 
 Node.js net module is used to create both servers and clients. This module provides an asynchronous network wrapper.
+
+<!-- @end -->
+
+<!-- @multipleChoice -->
+
+Which of the following is true about fork method of the child_process module?
+
+- [ ] The fork() method method is a special case of the spawn() to create Node processes.
+- [ ] The fork method returns object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
+- [ ] Both of the above.
+- [ ] None of the above.
+
+The fork() method method is a special case of the spawn() to create Node processes. It returns object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
 
 <!-- @end -->
