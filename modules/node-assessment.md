@@ -49,7 +49,7 @@ Which of the following is not one of the events that are typically associated wi
 - [ ] Messages from other programs
 
 
-Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
+Event programming is the dominant paradigm used in graphical user interfaces and other applications that are perform  actions in response to user input and interactions between systems.
 
 <!-- @end -->
 
@@ -64,21 +64,20 @@ Which of the following is not one of the two types of API functions in Node.js ?
 - [ ] Non-blocking functions
 
 
-Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
+Node provides both asynchronous/non-blocking and synchronous/blocking APIs.
 
 <!-- @end -->
 
-!-- @multipleChoice -->
+<!-- @multipleChoice -->
 
-Which of the following is not one of the two types of API functions in Node.js ?
+The acronym NPM stands for what?
 
-- [ ] Asynchronous functions
-- [ ] Blocking functions
-- [X] Anonymous functions
-- [ ] Synchronous functions
-- [ ] Non-blocking functions
+- [ ] New Package Manager
+- [ ] Node Project Manager
+- [X] Node Package Manager
+- [ ] New Project Manager
 
 
-Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
+ Package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
 
 <!-- @end -->
