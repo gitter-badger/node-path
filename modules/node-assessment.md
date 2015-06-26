@@ -9,7 +9,11 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-19
 -->
 
-<!-- @section -->
+<!-- @section, "title" : "Node.js Knowledge Assessment"-->
+
+![I Know Node.JS!](https://cdn.meme.am/instances/500x/61587994.jpg)
+
+Ready to test your Node.js Fu? See if how you do on the following questions!
 
 <!-- @multipleChoice -->
 
@@ -79,5 +83,34 @@ The acronym NPM stands for what?
 
 
  Package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
+
+<!-- @end -->
+
+<!-- @multipleChoice -->
+
+Which of the following is true about EventEmitter.emit property?
+
+- [ ] emit property is used to locate an event handler.
+- [ ] emit property is used to bind a function with the event.
+- [X] emit property is used to fire an event.
+- [ ] None of the above.
+
+The emit property is used to fire an event.
+
+<!-- @end -->
+
+<!-- @multipleChoice -->
+
+Which of the following module is required for network specific operations?
+
+- [X] net module
+
+- [ ] os module
+
+- [ ] fs module
+
+- [ ] None of the above.
+
+Node.js net module is used to create both servers and clients. This module provides an asynchronous network wrapper.
 
 <!-- @end -->
