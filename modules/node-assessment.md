@@ -11,7 +11,7 @@ freshnessDate : 2015-06-19
 
 <!-- @section, "title" : "Node.js Knowledge Assessment"-->
 
-![I Know Node.JS!](http://cdn.meme.am/instances/500x/61587994.jpg)
+<img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:200px;height:200px;">
 
 Ready to test your Node.js Fu? See if how you do on the following questions!
 
