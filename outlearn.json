@@ -19,6 +19,7 @@
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
         {"module" : "node-resources"},
+        {"module" : "node-assessment"},
         {"page" : "./pages/live-long.md"}
       ]
     }
@@ -30,6 +31,9 @@
     },
     {
       "olm" : "./modules/node-resources.md"
+    },
+    {
+      "olm" : "./modules/node-assessment.md"
     }
   ],
 

@@ -9,20 +9,10 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-17
 -->
 
-<!-- @section -->
+<!-- @section, "title" : "What is Node.js Exactly? - a beginners introduction to Node.js"-->
 # What is Node.js Exactly? - a beginners introduction to Node.js
 
-<!-- @multipleChoice -->
-
-What is Node.js?
-
-- [ ] A command-line tool
-- [ ] A programming language
-- [ ] A UI framework
-- [X] None of the above
-
-
-<!-- @end -->
+What exactly is Node.js? Is it a command-line tool, a language, the same thing as Ruby on Rails, a cure for cancer?
 
 If you're new to web development, it can be a bit confusing as to what exactly Node.js is and what you should do with it, and there's a lot of information out there...most of which seems to be tailored towards genius-level developers.
 
@@ -34,7 +24,7 @@ So, here's a Node.js introduction for those who have no idea what it is. We're g
 
 <!-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is and paste it here."-->
 
-<!-- @section -->
+<!-- @section, "title" : "Node.js Tutorial for Beginners 2014 - An Introduction to Node.js with Express.js"-->
 # Node.js Tutorial for Beginners 2014 - An Introduction to Node.js with Express.js
 
 This video is an introduction to Node.js using the latest updates to the Express.js framework. Node.js is an amazing web framework that makes web development and engineering tons of fun.
@@ -45,7 +35,7 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
 
-<!-- @section -->
+<!-- @section, "title" : "Node.js at PayPal - Clash of the Titans: Releasing the Kraken"-->
 # Node.js at PayPal - Clash of the Titans: Releasing the Kraken
 
 This video takes you inside the introduction of Node.js to PayPal. It's a fantastic 15 minutes of detailed context for what it is like for a large organization with a lot of existing code to adopt Node.js.

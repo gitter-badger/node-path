@@ -23,19 +23,16 @@ Here are some video courses on Node.js special topics like testing, security, et
 
 [![Safari Books Online: Node Security](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-node-security.png)](https://www.safaribooksonline.com/library/view/node-security/9781783281497)
 
-
 <!-- @section -->
 
 # Advanced Node.js Learning Resources
 
 Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
 
-
 [![Essential JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg)](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
 
 [![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
-
 
 [![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
