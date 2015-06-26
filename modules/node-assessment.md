@@ -17,13 +17,12 @@ Ready to test your Node.js Fu? See if how you do on the following questions!
 
 <!-- @multipleChoice -->
 
-Which of the following best described Node.js?
+Which of the following best describes Node.js?
 - [ ] A JavaScript CLI
 - [ ] A new programming language
 - [ ] A UI framework for JavaScript front-ends
 - [X] A server-side scripting platform
 - [ ] None of the above
-
 Unlike JavaScript running in the browser, Node.js allows you to use JavaScript running on the server to create back-end services that work with a variety of front end frameworks.
 
 <!-- @end -->
