@@ -30,7 +30,7 @@ Unlike JavaScript running in the browser, Node.js allows you to use JavaScript r
 Which of the following is generally understood to be the most compelling attribute of Node.js?
 
 - [ ] Computational efficiency
-- [ ] Non-blocking I/O
+- [X] Non-blocking I/O
 - [ ] Exception handling
 - [ ] Multi-threading
 - [ ] None of the above
@@ -41,18 +41,13 @@ The core idea of Node.js is to use non-blocking, event-driven I/O to remain ligh
 
 <!-- @multipleChoice -->
 
-Which answer best describes the kind of events that are typcially associated with event-driven programming:
+Which of the following is not one of the events that are typically associated with event-driven programming?
 
-- [ ] (A) User actions such as mouse/touch gestures and key presses
-- [ ] (B) Sensor outputs
-- [ ] (C) Messages from other programs
-- [ ] (D) Algorithmic computations
-- [ ] All of the above
-- [ ] A and B only
-- [ ] B and C only
-- [X] A, B, and C, but not D
-- [ ] A, C, and D, but not B
-- [ ] None of the above
+- [ ] User actions such as mouse/touch gestures and key presses
+- [X] Algorithmic computations
+- [ ] Sensor outputs
+- [ ] Messages from other programs
+
 
 Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
 
@@ -60,18 +55,29 @@ Event programming is the dominant paradigm used in graphical user interfaces and
 
 <!-- @multipleChoice -->
 
-What are the two types of API functions in Node.js ?
+Which of the following is not one of the two types of API functions in Node.js ?
 
-- [ ] Asynchronous/non-blocking functions Synchronous/blocking functions
-- [ ] Anonymous functions and synchronous/blocking functions
-- [ ] (C) Messages from other programs
-- [ ] (D) Algorithmic computations
-- [ ] All of the above
-- [ ] A and B only
-- [ ] B and C only
-- [ ] A, B, and C, but not D
-- [ ] A, C, and D, but not B
-- [ ] None of the above
+- [ ] Asynchronous functions
+- [ ] Blocking functions
+- [X] Anonymous functions
+- [ ] Synchronous functions
+- [ ] Non-blocking functions
+
+
+Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
+
+<!-- @end -->
+
+!-- @multipleChoice -->
+
+Which of the following is not one of the two types of API functions in Node.js ?
+
+- [ ] Asynchronous functions
+- [ ] Blocking functions
+- [X] Anonymous functions
+- [ ] Synchronous functions
+- [ ] Non-blocking functions
+
 
 Event programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input and interactions between systems.
 
