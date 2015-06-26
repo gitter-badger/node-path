@@ -11,8 +11,6 @@ freshnessDate : 2015-06-19
 
 <!-- @section, "title" : "Node.js Knowledge Assessment"-->
 
-![I Know Node.JS!](https://cdn.meme.am/instances/500x/61587994.jpg)
-
 Ready to test your Node.js Fu? See if how you do on the following questions!
 
 <!-- @multipleChoice -->
