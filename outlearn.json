@@ -18,9 +18,11 @@
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
+        {"module" : "project"},
+        {"module" : "node-project-fix-sample"},
         {"module" : "aleksandarolic/npm"},
-        {"module" : "node-resources"},
         {"module" : "node-post-assessment"},
+        {"module" : "node-resources"},
         {"page" : "./pages/live-long.md"}
       ]
     }
@@ -34,11 +36,15 @@
       "olm" : "./modules/node-video.md"
     },
     {
+      "olm" : "./modules/node-post-assessment.md"
+    },
+    {
       "olm" : "./modules/node-resources.md"
     },
     {
-      "olm" : "./modules/node-post-assessment.md"
+      "olm" : "./modules/node-project-fix-sample.md"
     }
+
   ],
 
   "assets" : [

@@ -11,7 +11,7 @@ freshnessDate : 2015-06-29
 
 <!-- @section, "title" : "Pre-Test Your Node.js Fu"-->
 
-Before we begin, let's see test your current level of Node.js Fu. See if how you do on the following pre-assessment questions!
+Before we begin, let's see test your current level of Node.js Fu. See how you do on the following pre-assessment questions!
 
 <!-- @multipleChoice -->
 
@@ -45,6 +45,7 @@ Which of the following is not one of the events that are typically associated wi
 - [X] Algorithmic computations
 - [ ] Sensor outputs
 - [ ] Messages from other programs
+
 Event programming is the dominant paradigm used in graphical user interfaces and other applications that are perform  actions in response to user input and interactions between systems.
 
 <!-- @end -->
@@ -57,6 +58,7 @@ Which of the following is not one of the two types of API functions in Node.js ?
 - [X] Anonymous functions
 - [ ] Synchronous functions
 - [ ] Non-blocking functions
+
 Node provides both asynchronous/non-blocking and synchronous/blocking APIs.
 
 <!-- @end -->
@@ -68,6 +70,7 @@ The acronym NPM stands for what?
 - [ ] Node Project Manager
 - [X] Node Package Manager
 - [ ] New Project Manager
+
  Package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
 
 <!-- @end -->
@@ -79,6 +82,7 @@ Which of the following is true about EventEmitter.emit property?
 - [ ] emit property is used to bind a function with the event.
 - [X] emit property is used to fire an event.
 - [ ] None of the above.
+
 The emit property is used to fire an event.
 <!-- @end -->
 
@@ -96,10 +100,11 @@ Node.js net module is used to create both servers and clients. This module provi
 
 <!-- @multipleChoice -->
 Which of the following is true about fork method of the child_process module?
-- [X] The fork() method method is a special case of the spawn() to create Node processes.
-- [ ] The fork method returns object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
-- [ ] Both of the above.
+- [ ] The fork() method method is a special case of the spawn() to create Node processes.
+- [ ] The fork method returns an object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
+- [X] Both of the above.
 - [ ] None of the above.
-The fork() method method is a special case of the spawn() to create Node processes. It returns object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
+
+The fork() method method is a special case of the spawn() to create Node processes. It returns an object with a built-in communication channel in addition to having all the methods in a normal ChildProcess instance.
 
 <!-- @end -->
