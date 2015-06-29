@@ -6,7 +6,7 @@ description: "This module provides links to additional Node.js learning resource
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
 license : "Creative Commons Attribution 4.0 International"
-freshnessDate : 2015-06-18
+freshnessDate : 2015-06-29
 -->
 
 <!-- @section -->

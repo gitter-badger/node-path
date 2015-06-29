@@ -6,7 +6,7 @@ description: "This module provides two video introductions to Node.js. The first
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
 license : "Creative Commons Attribution 4.0 International"
-freshnessDate : 2015-06-17
+freshnessDate : 2015-06-29
 -->
 
 <!-- @section, "title" : "What is Node.js Exactly? - a beginners introduction to Node.js"-->
