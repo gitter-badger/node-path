@@ -9,9 +9,7 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-29
 -->
 
-<!-- @section, "title" : "Test Your Node.js Fu"-->
-
-<img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
+<!-- @section, "title" : "Pre-Test Your Node.js Fu"-->
 
 Before we begin, let's see test your current level of Node.js Fu. See if how you do on the following pre-assessment questions!
 

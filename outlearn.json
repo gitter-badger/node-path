@@ -28,13 +28,13 @@
 
   "modules" : [
     {
+      "olm" : "./modules/node-pre-assessment.md"
+    },
+    {
       "olm" : "./modules/node-video.md"
     },
     {
       "olm" : "./modules/node-resources.md"
-    },
-    {
-      "olm" : "./modules/node-pre-assessment.md"
     },
     {
       "olm" : "./modules/node-post-assessment.md"
