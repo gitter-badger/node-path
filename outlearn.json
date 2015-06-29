@@ -12,6 +12,7 @@
       "coverColor" : "#5b8f1c",
       "pages" : [
         {"page" : "./pages/welcome.md"},
+        {"module" : "node-pre-assessment"},
         {"module" : "mozilla-developer-network/re-introduction"},
         {"module" : "node-video"},
         {"module" : "marijnhaverbeke/eloquent-node"},
@@ -19,7 +20,7 @@
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
         {"module" : "node-resources"},
-        {"module" : "node-assessment"},
+        {"module" : "node-post-assessment"},
         {"page" : "./pages/live-long.md"}
       ]
     }
@@ -33,7 +34,10 @@
       "olm" : "./modules/node-resources.md"
     },
     {
-      "olm" : "./modules/node-assessment.md"
+      "olm" : "./modules/node-pre-assessment.md"
+    },
+    {
+      "olm" : "./modules/node-post-assessment.md"
     }
   ],
 
