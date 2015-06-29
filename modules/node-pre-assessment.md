@@ -1,19 +1,19 @@
 <!--
-name: node-assessment
+name: node-pre-assessment
 version : 0.0.1
-title : "Node.js Knowledge Assessment"
+title : "Node.js Knowledge Pre-Assessment"
 description: "A brief assessment of Node.js knowledge. "
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
 license : "Creative Commons Attribution 4.0 International"
-freshnessDate : 2015-06-19
+freshnessDate : 2015-06-29
 -->
 
 <!-- @section, "title" : "Test Your Node.js Fu"-->
 
 <img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
 
-Ready to test your Node.js Fu? See if how you do on the following questions!
+Before we begin, let's see test your current level of Node.js Fu. See if how you do on the following pre-assessment questions!
 
 <!-- @multipleChoice -->
 
