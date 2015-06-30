@@ -11,7 +11,7 @@ freshnessDate : 2015-06-29
 
 <!-- @section, "title" : "Pre-Test Your Node.js Fu"-->
 
-Before we begin, let's see test your current level of Node.js Fu. See how you do on the following pre-assessment questions!
+Before we begin, let's assess your current level of Node.js Fu. Try your best to answer the following pre-assessment questions correctly.
 
 <!-- @multipleChoice -->
 
