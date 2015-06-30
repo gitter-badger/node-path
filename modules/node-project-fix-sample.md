@@ -1,5 +1,4 @@
 <!--
-
 name: node-project-fix-sample
 version : 0.0.1
 title : "Node.js Project - Fix the Sample Application"
@@ -8,7 +7,6 @@ homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
 license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-29
-
 -->
 
 <!-- @section, "title" : "Overview"-->
