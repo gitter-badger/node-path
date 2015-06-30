@@ -2,12 +2,13 @@
 name: node-project-fix-sample
 version : 0.0.1
 title : "Node.js Project - Fix the Sample Application"
-description: "This module allows you to examine a sample application that has a bug in it. Find the bug and fix it.
+description: "This module allows you to examine a sample application that has a bug in it. Find the bug and fix it"
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
 license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-29
 -->
+
 
 <!-- @section, "title" : "Overview"-->
 # Overview
