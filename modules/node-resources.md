@@ -11,7 +11,7 @@ freshnessDate : 2015-06-29
 
 <!-- @section -->
 
-# Video Courses on Node.js Special Topics
+# Node.js Learning Resources for Special Topics
 
 Here are some video courses on Node.js special topics like testing, security, etc.
 
@@ -31,7 +31,7 @@ Here are some video courses on advanced Node.js topics like design patterns and 
 
 [![Essential JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg)](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-[![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
+[![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-design-patterns.png)
 
 [![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
 
