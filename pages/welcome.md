@@ -10,11 +10,11 @@ The learning path includes content curated from a variety of sources. We have en
 
 We'll start with a pre-assessment to give you a sense of what you will need to know. Then we'll jump into an optional re-introduction to JavaScript for those who've been stuck in other languages for too long. You can skip it if you are a JS master. Then we'll get right into the meat of Node.js server-side framework with detailed tutorials and an outside project. Then you will take the same assessment you started with, but hopefully you will know more answers at that point. And at the end, you'll find links to more resources for learning advanced topics in Node.js.
 
-Your learning coach for this path is Neo Anderson, who recently joined us from Matrix Corp, where he was a lead architect on their Node.js backend.
+Your learning coach for this path is John Mellows, who recently joined us from Matrix Corp, where he was a lead architect on their Node.js backend.
 
 <img src="http://vignette4.wikia.nocookie.net/matrix/images/8/88/Neo_stops_bullets_2.JPG/revision/latest?cb=20060831032053" alt="I Know Node.JS" style="width:500px;">
 
-If you have any questions, feel free to reach out to Neo through the social bar at the bottom of the learning path.
+If you have any questions, feel free to reach out to John through the social bar at the bottom of the learning path.
 
 Good luck!
 
