@@ -16,8 +16,8 @@ Before we begin, let's assess your current level of Node.js Fu. Try your best to
 <!-- @multipleChoice -->
 
 Which of the following best describes Node.js?
-- [ ] A JavaScript CLI
-- [X] A server-side scripting platform
+- [X] A JavaScript CLI
+- [ ] A server-side scripting platform
 - [ ] A new programming language
 - [ ] A UI framework for JavaScript front-ends
 - [ ] None of the above
