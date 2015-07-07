@@ -92,7 +92,7 @@ The emit property is used to fire an event.
 
 <!-- @multipleChoice -->
 
-Which of the following module is required for network specific operations?
+Which of the following modules is required for network specific operations?
 - [ ] comm module
 - [ ] os module
 - [ ] fs module
