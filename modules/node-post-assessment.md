@@ -11,7 +11,7 @@ freshnessDate : 2015-06-29
 
 <!-- @section, "title" : "Test Your Node.js Fu"-->
 
-<img src="http://cdn.meme.am/instances/500x/61587994.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
+<img src="https://raw.githubusercontent.com/sigma512/node-path/master/assets/i-know-node-js.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
 
 Now that you have completed the learning path, let's test your Node.js Fu? Hopefully you will see big improvement since you last took this assessment!
 
