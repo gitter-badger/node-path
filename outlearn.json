@@ -18,7 +18,6 @@
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
-        {"module" : "node-project-fix-sample"},
         {"module" : "aleksandarolic/npm"},
         {"module" : "node-post-assessment"},
         {"module" : "node-resources"},
