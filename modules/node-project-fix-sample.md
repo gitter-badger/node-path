@@ -28,11 +28,9 @@ Try running the app and you will find that it does not work. Use the error messa
 
 <!-- @task, "hasDeliverable" : false, "text" : "Find and fix the bug."-->
 
-
 <!-- @section-->
 # Submit a Pull Request Containing Your Fixes
 
 Now that you have fixed the bug, all that remains is for you to submit the pull request so it can be reviewed by the path guide.
 
-
-<!-- @task, "hasDeliverable" : true, "text" : "Create a pull request containing your fixes to the bug, and paste URL of your pull request below."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Create a pull request containing your fixes to the bug, and paste the URL of your pull request below."-->
