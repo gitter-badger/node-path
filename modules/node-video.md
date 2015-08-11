@@ -13,19 +13,6 @@ freshnessDate : 2015-06-29
 # What is Node.js Exactly? - a beginners introduction to Node.js
 If you're new to web development, it can be a bit confusing as to what exactly Node.js is and what you should do with it, and there's a lot of information out there...most of which seems to be tailored towards genius-level developers.
 
-<!-- @multipleChoice -->
-
-What is Node.js?
-
-- [ ] A command-line tool
-- [ ] A programming language
-- [ ] A UI framework
-- [X] None of the above
-
-Node.js is an increasingly popular platform for writing real-time application backends in JavaScript.
-
-<!-- @end -->
-
 So, here's a Node.js introduction for those who have no idea what it is. We're going to cover the difference between JavaScript in a browser vs JavaScript in Node.js and the common uses for Node.js. To wrap it up, we're going to spin up a quick web server in Node.js just to show you how easy it is.
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/pU9Q6oiQNd0" -->
